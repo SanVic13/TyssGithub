@@ -18,5 +18,6 @@ public class MavenPractice2Test {
 	@Test
 	public void mavenPractice2Test3() {
 		Reporter.log("mavenPractice2Test3",true);
+		System.out.println("added statement");
 	}
 }
