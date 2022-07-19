@@ -18,6 +18,6 @@ public class MavenPracticeTest {
 	@Test
 	public void practiceTest3() {
 		Reporter.log("practiceTest3", true);	
-		System,out,println("PR raising practice");
+		System.out.println("PR raising practice");
 	}
 }
