@@ -8,6 +8,7 @@ public class MavenPractice2Test {
 	@Test
 	public void mavenPractice2Test1() {
 		Reporter.log("mavenPractice2Test1",true);
+		//changes from master
 	}
 
 	@Test
