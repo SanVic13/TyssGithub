@@ -8,6 +8,7 @@ public class MavenPracticeWithJenkinsTest {
 	@Test
 	public void mavenPracticeWithJenkins1() {
 		Reporter.log("mavenPracticeWithJenkins1", true);
+		Reporter.log("mavenPracticeWithJenkins2", true);
 	}
 
 	@Test
