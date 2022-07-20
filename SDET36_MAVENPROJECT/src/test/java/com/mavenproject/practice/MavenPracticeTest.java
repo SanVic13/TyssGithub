@@ -19,12 +19,9 @@ public class MavenPracticeTest {
 	public void practiceTest3() {
 		Reporter.log("practiceTest3", true);	
 		System.out.println("PR raising practice");
-<<<<<<< HEAD
 		System.out.println("PR raising practice2");
 		System.out.println("PR raising practice3");
 		
-=======
 		System.out.println("PR raising practice1");
->>>>>>> branch 'master' of https://github.com/SanVic13/TyssGithub.git
 	}
 }
