@@ -25,6 +25,9 @@
 
 	</dependencies>
 
+<profiles>
+<profile>
+<id>SmokeTest</id>
 	<build>
 		<plugins>
 		
@@ -47,5 +50,6 @@
 		
 		</plugins>
 	</build>
-
+	</profile>
+</profiles>
 </project>
