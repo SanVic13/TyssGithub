@@ -14,6 +14,7 @@ public class MavenPracticeWithJenkinsTest {
 	public void mavenPracticeWithJenkins2() {
 		Reporter.log("mavenPracticeWithJenkins2", true);
 		System.out.println("jenkins practice 01");
+		System.out.println("jenkins practice 02");
 	}
 
 }

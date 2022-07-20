@@ -3,7 +3,10 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+<<<<<<< HEAD
       <class name="com.mavenproject.practice.MavenPracticeWithJenkinsTest"/>
+=======
+>>>>>>> branch 'master' of https://github.com/SanVic13/TyssGithub.git
       <class name="com.mavenproject.practice.MavenPracticeTest"/>
       <class name="com.mavenproject.practice.MavenPractice2Test"/>
     </classes>
